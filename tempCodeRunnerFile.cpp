@@ -1,1 +1,0 @@
-int Solution::cal(int a,int b){
